@@ -27,7 +27,7 @@ Each class includes:
       <td><strong>01</strong></td>
       <td>Python & PyCharm Installation, Google Colab Overview, What is Programming?, What is Python?, Our First Python Program, Python Character Set, Variables & Identifier Rules, Data Types</td>
       <td><a href="https://www.youtube.com/watch?v=SQ2zAnK_pSc" class="btn-watch">🎥 Watch</a></td>
-      <td><a href="class01/readme.md" class="btn-notes">📄 Notes</a></td>
+      <td><a href="Day01/readme.md" class="btn-notes">📄 Notes</a></td>
     </tr>
      <tr>
       <td><strong>02</strong></td>
