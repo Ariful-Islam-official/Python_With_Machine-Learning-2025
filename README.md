@@ -31,13 +31,13 @@ Each class includes:
     </tr>
      <tr>
       <td><strong>02</strong></td>
-      <td class="coming-soon">Bonus Content Coming Soon...</td>
+      <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
       <td><strong>03</strong></td>
-      <td class="coming-soon">Bonus Content Coming Soon...</td>
+      <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
