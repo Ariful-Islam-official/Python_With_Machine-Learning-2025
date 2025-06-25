@@ -20,7 +20,6 @@ Each class includes:
       <th>📜 Topics Covered</th>
       <th>🎥 Recorded Session</th>
       <th>📄 Notes</th>
-      <th>📕 PDF</th> 
     </tr>
   </thead>
   <tbody>
