@@ -29,19 +29,26 @@ Each class includes:
       <td><a href="https://www.youtube.com/watch?v=SQ2zAnK_pSc" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day01/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
     <td><strong>02</strong></td>
       <td>Expressions, Operators, Input & Strings in Python</td>
       <td><a href="https://youtu.be/LABoptry5D4" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day02/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>03</strong></td>
+      <td>Conditional Statements, Lists & Practice Tasks</td>
+      <td><a href="" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day 03/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>03</strong></td>
+      <td><strong>04</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>04</strong></td>
+      <td><strong>05</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
