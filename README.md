@@ -38,7 +38,7 @@ Each class includes:
     <tr>
     <td><strong>03</strong></td>
       <td>Conditional Statements, Lists & Practice Tasks</td>
-      <td><a href="" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="https://youtu.be/8fK67MphYO0" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day 03/" class="btn-notes">📄 Notes</a></td>
     </tr>
      <tr>
