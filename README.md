@@ -39,16 +39,22 @@ Each class includes:
     <td><strong>03</strong></td>
       <td>Conditional Statements, Lists & Practice Tasks</td>
       <td><a href="https://youtu.be/8fK67MphYO0" class="btn-watch">🎥 Watch</a></td>
-      <td><a href="Day 03/" class="btn-notes">📄 Notes</a></td>
+      <td><a href="Day03/" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>04</strong></td>
+      <td></td>
+      <td><a href="https://youtu.be/2z6GyKik6Ww" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day04/" class="btn-notes">📄 Notes</a></td>
     </tr>
      <tr>
-      <td><strong>04</strong></td>
+      <td><strong>05</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>05</strong></td>
+      <td><strong>06</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
