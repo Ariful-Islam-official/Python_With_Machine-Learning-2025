@@ -43,7 +43,7 @@ Each class includes:
     </tr>
     <tr>
     <td><strong>04</strong></td>
-      <td></td>
+      <td>Tuples, Dictionaries, Sets & Practice</td>
       <td><a href="https://youtu.be/2z6GyKik6Ww" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day04/" class="btn-notes">📄 Notes</a></td>
     </tr>
