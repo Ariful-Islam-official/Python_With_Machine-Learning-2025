@@ -47,14 +47,20 @@ Each class includes:
       <td><a href="https://youtu.be/2z6GyKik6Ww" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day04/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>05</strong></td>
+      <td>While Loop, Break, Continue, Else & Practice</td>
+      <td><a href="https://youtu.be/dMqda8k4rrE" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day05/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>05</strong></td>
+      <td><strong>06</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>06</strong></td>
+      <td><strong>07</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
