@@ -53,14 +53,20 @@ Each class includes:
       <td><a href="https://youtu.be/dMqda8k4rrE" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day05/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>06</strong></td>
+      <td>For Loops, Range, Nested Loops, and Functions in Python</td>
+      <td><a href="https://youtu.be/CvT1Rw7zDUQ" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day06/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>06</strong></td>
+      <td><strong>07</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>07</strong></td>
+      <td><strong>08</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
