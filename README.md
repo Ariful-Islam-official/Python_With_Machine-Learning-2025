@@ -59,14 +59,20 @@ Each class includes:
       <td><a href="https://youtu.be/CvT1Rw7zDUQ" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day06/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>07</strong></td>
+      <td>Functions & Recursion in Python</td>
+      <td><a href="https://youtu.be/r99HFJpDUTA" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day07/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>07</strong></td>
+      <td><strong>08</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>08</strong></td>
+      <td><strong>09</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
