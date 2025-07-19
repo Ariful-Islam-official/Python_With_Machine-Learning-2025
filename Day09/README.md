@@ -1,188 +1,288 @@
-## **1. Define O(1). Mention one algorithm which follows O(1).**  
-### **English:**  
-- **O(1)** means **constant time complexity**. The algorithm takes the same time to execute, regardless of input size.  
-- **Example**: Accessing an array element by index (`arr[5]`).  
+# **Complete CUET M.Sc. (CSE) Question Bank with Answers**
 
-### **Bangla:**  
-- **O(1)** হলো **ধ্রুব সময় কমপ্লেক্সিটি**। ইনপুট সাইজ যাই হোক, এক্সিকিউশন সময় একই থাকে।  
-- **উদাহরণ**: অ্যারের একটি এলিমেন্ট ইনডেক্স দিয়ে অ্যাক্সেস করা (`arr[5]`)।  
+## **1. Data Structures & Algorithms**
+### **Q1. Define O(n log n) with example**
+**Answer:**  
+O(n log n) describes algorithms where runtime grows proportionally to the input size (n) multiplied by its logarithm.  
+**Example:** Merge Sort, Heap Sort.
 
----
+### **Q2. Bubble Sort Program**
+```python
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+```
+**Time Complexity:** O(n²) in worst case.
 
-## **2. Compare Fishbone Model vs. Waterfall Model**  
-### **English:**  
-| **Fishbone Model (Ishikawa)** | **Waterfall Model** |  
-|-------------------------------|---------------------|  
-| Used for **root cause analysis** (e.g., defects in manufacturing). | A **linear SDLC model** with sequential phases. |  
-| Visualizes causes of a problem (like a fish skeleton). | Phases: Requirements → Design → Implementation → Testing → Maintenance. |  
-| Flexible, non-linear. | Rigid, no going back to previous phases. |  
+### **Q3. Hash Table & Collision**
+**Answer:**  
+A hash table stores key-value pairs using a hash function.  
+**Collision Resolution Methods:**  
+- Chaining (linked lists at each bucket)  
+- Open Addressing (probing to find empty slots)
 
-### **Bangla:**  
-- **ফিশবোন মডেল**: সমস্যার মূল কারণ বিশ্লেষণ করে (যেমন: উৎপাদনে ত্রুটি)।  
-- **ওয়াটারফল মডেল**: সিকোয়েনশিয়াল সফটওয়্যার ডেভেলপমেন্ট মডেল (ফিজ একের পর এক)।  
+### **Q4. BFS vs DFS**
+| **BFS** | **DFS** |
+|---------|---------|
+| Uses queue | Uses stack |
+| Level-order traversal | Depth-wise traversal |
+| Finds shortest path | Uses less memory |
 
----
-
-## **3. Detecting Malware in a Suspicious Email (Without Clicking)**  
-### **English:**  
-1. **Check Sender’s Email**: Look for misspellings (e.g., `support@bankk.com`).  
-2. **Hover Over Link**: Preview URL (e.g., shows `malware.com` instead of `bank.com`).  
-3. **Attachments**: Avoid `.exe`, `.zip` files.  
-4. **Grammar Errors**: Poor English = red flag.  
-
-### **Bangla:**  
-1. **প্রেরকের ইমেইল চেক করুন**: ভুল স্পেলিং দেখুন (যেমন: `support@bankk.com`)।  
-2. **লিঙ্কে হোভার করুন**: আসল URL চেক করুন।  
-3. **অ্যাটাচমেন্ট**: `.exe`, `.zip` ফাইল এড়িয়ে চলুন।  
-
----
-
-## **4. Role of Semaphores in Synchronization**  
-### **English:**  
-- **Semaphore** is a **variable** used to control access to shared resources in multithreading.  
-- **Types**:  
-  - **Binary (0/1)**: Like a mutex lock.  
-  - **Counting**: Allows multiple threads.  
-
-### **Bangla:**  
-- **সেমাফোর** হলো একটি ভেরিয়েবল যা মাল্টিথ্রেডিংয়ে শেয়ার্ড রিসোর্স এক্সেস কন্ট্রোল করে।  
+### **Q5. Priority Queue vs Normal Queue**
+**Priority Queue:** Elements dequeued based on priority (implemented with heaps).  
+**Normal Queue:** FIFO (First-In-First-Out) order.
 
 ---
 
-## **5. ACID Properties in Database Transactions**  
-### **English:**  
-| **Property** | **Description** |  
-|--------------|----------------|  
-| **Atomicity** | All operations succeed or fail together. |  
-| **Consistency** | Data remains valid before/after transaction. |  
-| **Isolation** | Concurrent transactions don’t interfere. |  
-| **Durability** | Committed data persists after crashes. |  
+## **2. Operating Systems**
+### **Q6. Deadlock & Conditions**
+**Deadlock:** When processes block each other permanently.  
+**Conditions:**  
+1. Mutual Exclusion  
+2. Hold and Wait  
+3. No Preemption  
+4. Circular Wait
 
-### **Bangla:**  
-- **Atomicity**: সব অপারেশন একসাথে হয় বা বাতিল হয়।  
-- **Consistency**: ডাটা ট্রানজেকশনের আগে ও পরে বৈধ থাকে।  
+### **Q7. Mutex vs Semaphore**
+**Mutex:** Binary lock (0/1) for critical sections.  
+**Semaphore:** Counter for multiple threads (can be counting semaphore).
 
----
+### **Q8. Virtual Memory & Paging**
+**Virtual Memory:** Uses disk as extended RAM.  
+**Paging:** Divides memory into fixed-size pages (avoids external fragmentation).
 
-## **6. Agile vs. Waterfall**  
-### **English:**  
-| **Agile** | **Waterfall** |  
-|-----------|---------------|  
-| Iterative, flexible. | Linear, rigid. |  
-| Client feedback at each sprint. | No feedback until end. |  
+### **Q9. Thrashing**
+**Answer:** Excessive page faults occur when processes spend more time paging than executing due to insufficient memory.
 
-### **Bangla:**  
-- **এজাইল**: ধাপে ধাপে কাজ, ক্লায়েন্ট ফিডব্যাক নেয়া হয়।  
-- **ওয়াটারফল**: একবারে পুরো প্রজেক্ট শেষ করে দেখানো হয়।  
-
----
-
-## **7. Neural Networks & Backpropagation**  
-### **English:**  
-- **Neural Network**: Mimics human brain (input → hidden layers → output).  
-- **Backpropagation**: Adjusts weights using gradient descent to minimize error.  
-
-### **Bangla:**  
-- **নিউরাল নেটওয়ার্ক**: মানুষের মস্তিষ্কের মতো কাজ করে।  
-- **ব্যাকপ্রোপাগেশন**: ভুল কমাতে নেটওয়ার্কের ওয়েট আপডেট করে।  
+### **Q10. Race Condition Prevention**
+**Methods:**  
+- Mutex locks  
+- Semaphores  
+- Atomic operations
 
 ---
 
-## **8. Program to Reverse a Linked List**  
-```python  
-class Node:  
-    def __init__(self, data):  
-        self.data = data  
-        self.next = None  
+## **3. Database Management Systems**
+### **Q11. Normalization (1NF-3NF)**
+**1NF:** All attributes atomic (no repeating groups).  
+**2NF:** No partial dependencies (all non-keys depend on full primary key).  
+**3NF:** No transitive dependencies (non-key attributes depend only on keys).
 
-def reverse_list(head):  
-    prev = None  
-    current = head  
-    while current:  
-        next_node = current.next  
-        current.next = prev  
-        prev = current  
-        current = next_node  
-    return prev  
-```  
+### **Q12. Indexing & B-Trees**
+**Indexing:** Speeds up queries by creating lookup structures.  
+**B-Tree:** Balanced tree where each node contains multiple keys (used in databases).
 
----
+### **Q13. SQL vs NoSQL**
+| **SQL** | **NoSQL** |
+|---------|----------|
+| Relational tables | Document/Key-Value stores |
+| ACID compliant | BASE model (flexible) |
+| Example: MySQL | Example: MongoDB |
 
-## **9. `sizeof()` vs. `len()`**  
-- **`sizeof()`** (C): Returns memory size in bytes.  
-- **`len()`** (Python): Returns number of items in a list.  
+### **Q14. Transaction Log**
+**Purpose:** Records all transactions for recovery (used in rollback/rollforward).
 
----
-
-## **10. Merge Sort vs. Quick Sort**  
-- **Merge Sort**:  
-  - **Time**: O(n log n) (always).  
-  - **Space**: O(n) (extra memory).  
-- **Quick Sort**:  
-  - **Time**: O(n log n) avg., O(n²) worst-case.  
-  - **Space**: O(log n) (in-place).  
+### **Q15. SQL Query for 2nd Highest Salary**
+```sql
+SELECT MAX(salary) FROM Employee 
+WHERE salary < (SELECT MAX(salary) FROM Employee);
+```
 
 ---
 
-## **11. Greedy vs. Dynamic Programming**  
-| **Greedy** | **DP** |  
-|------------|--------|  
-| Chooses locally optimal solution. | Solves subproblems, stores results. |  
-| Example: Dijkstra’s Algorithm. | Example: Fibonacci Series. |  
+## **4. Computer Networks**
+### **Q16. TCP vs UDP**
+| **TCP** | **UDP** |
+|---------|---------|
+| Reliable, connection-oriented | Unreliable, connectionless |
+| Flow control, congestion control | No guarantees |
+| HTTP, FTP | DNS, Video Streaming |
+
+### **Q17. OSI Model Layers**
+1. Physical (bits)  
+2. Data Link (frames)  
+3. Network (packets)  
+4. Transport (segments)  
+5. Session  
+6. Presentation  
+7. Application
+
+### **Q18. DNS Spoofing**
+**How it works:** Attacker corrupts DNS cache to redirect domains to malicious IPs.
+
+### **Q19. Firewall Protection**
+**Methods:**  
+- Packet filtering  
+- Stateful inspection  
+- Proxy service
+
+### **Q20. Phishing Detection**
+1. Check sender email authenticity  
+2. Hover over links to verify URLs  
+3. Look for grammatical errors  
 
 ---
 
-## **12. Expression vs. Statement in C**  
-- **Expression**: Evaluates to a value (e.g., `x + 5`).  
-- **Statement**: Performs an action (e.g., `if (x > 5) { ... }`).  
+## **5. Software Engineering**
+### **Q21. Scrum vs Kanban**
+| **Scrum** | **Kanban** |
+|-----------|------------|
+| Fixed-length sprints | Continuous flow |
+| Roles: Scrum Master | No fixed roles |
+| Burn-down charts | WIP limits |
+
+### **Q22. V-Model**
+**Concept:** Verification and validation phases mirror each other (extension of Waterfall).
+
+### **Q23. User Stories**
+**Format:** "As a [user], I want [feature] so that [benefit]."
+
+### **Q24. Git Branching**
+**Common Strategies:**  
+- Feature branches  
+- Git Flow  
+- Trunk-Based Development
+
+### **Q25. CI/CD**
+**CI:** Automates code integration/testing.  
+**CD:** Automates deployment to production.
 
 ---
 
-## **13. Leap Year Check Program**  
-```python  
-def is_leap(year):  
-    return (year % 400 == 0) or (year % 100 != 0 and year % 4 == 0)  
-```  
+## **6. Machine Learning**
+### **Q26. Bias-Variance Tradeoff**
+**High Bias:** Underfitting (oversimplified model).  
+**High Variance:** Overfitting (model memorizes training data).
+
+### **Q27. k-NN Algorithm**
+**Concept:** Classifies points based on majority vote of nearest neighbors.
+
+### **Q28. Gradient Descent**
+**Purpose:** Optimizes model parameters by minimizing loss function.
+
+### **Q29. Confusion Matrix Metrics**
+- Precision = TP / (TP + FP)  
+- Recall = TP / (TP + FN)  
+- F1-score = 2 * (Precision * Recall) / (Precision + Recall)
+
+### **Q30. Decision Trees**
+**Advantages:**  
+- Handles non-linear data  
+- Interpretable  
+- No feature scaling needed
 
 ---
 
-## **14. IP Addressing & Subnetting**  
-Given IP: `192.168.1.0/24`  
-- **Subnets**: 256 (if /24).  
-- **Broadcast**: `192.168.1.255`.  
+## **7. Programming**
+### **Q31. Palindrome Check**
+```python
+def is_palindrome(s):
+    return s == s[::-1]
+```
+
+### **Q32. Recursion (Fibonacci)**
+```python
+def fib(n):
+    return n if n <= 1 else fib(n-1) + fib(n-2)
+```
+
+### **Q33. DP: Coin Change**
+```python
+def coin_change(coins, amount):
+    dp = [float('inf')] * (amount + 1)
+    dp[0] = 0
+    for coin in coins:
+        for x in range(coin, amount + 1):
+            dp[x] = min(dp[x], dp[x - coin] + 1)
+    return dp[amount] if dp[amount] != float('inf') else -1
+```
+
+### **Q34. GCD (Euclidean)**
+```python
+def gcd(a, b):
+    return a if b == 0 else gcd(b, a % b)
+```
+
+### **Q35. Lambda Function**
+```python
+square = lambda x: x ** 2  # Example usage: square(5) → 25
+```
 
 ---
 
-## **15. Overfitting in ML: Solutions**  
-- **Regularization (L1/L2)**: Penalizes complex models.  
-- **Cross-Validation**: Splits data to test generalization.  
+## **8. System Design**
+### **Q36. URL Shortener Design**
+1. **Hashing:** Convert long URL to 6-char code (Base62 encoding).  
+2. **DB:** Store mappings (code → original URL).  
+3. **Cache:** Use Redis for hot URLs.
+
+### **Q37. Load Balancing**
+**Round Robin:** Distributes requests sequentially.  
+**Least Connections:** Sends to server with fewest active connections.
+
+### **Q38. Caching (Redis)**
+**Benefits:** Reduces database load, speeds up read operations.
+
+### **Q39. Microservices vs Monolith**
+**Microservices:** Independent, scalable components.  
+**Monolith:** Single codebase (harder to scale).
+
+### **Q40. Fault Tolerance**
+**Methods:**  
+- Redundancy  
+- Circuit breakers  
+- Retry mechanisms
 
 ---
 
-## **16. Real-Time Flight Control System**  
-- **Priority Scheduling**: Critical signals get highest priority.  
-- **Load Shedding**: Discard non-critical tasks during overload.  
+## **9. Computer Architecture**
+### **Q41. RISC vs CISC**
+| **RISC** | **CISC** |
+|----------|----------|
+| Simple instructions | Complex instructions |
+| Fixed-length ops | Variable-length ops |
+| ARM, MIPS | x86 |
+
+### **Q42. Pipelining**
+**Concept:** Overlaps instruction execution stages to improve throughput.
+
+### **Q43. 4-Bit Adder**
+**Logic:** Uses Full Adders chained together (carry propagates).
+
+### **Q44. Cache Hierarchy**
+**L1:** Fastest, smallest (CPU core).  
+**L2/L3:** Larger, slower (shared between cores).
+
+### **Q45. Virtual Memory**
+**Purpose:** Allows running large programs by swapping pages to disk.
 
 ---
 
-## **17. Multiway Tree vs. B-Tree**  
-- **Multiway Tree**: General tree with >2 children.  
-- **B-Tree**: Balanced, used in databases for efficient disk access.  
+## **10. Shell Scripting**
+### **Q46. Find Files >1MB**
+```bash
+find /path -type f -size +1M
+```
 
----
+### **Q47. grep Example**
+```bash
+grep "error" logfile.txt  # Searches for "error" in file
+```
 
-## **18. Bucket Sort & Radix Sort**  
-- **Bucket Sort**: Divides data into buckets, sorts individually.  
-- **Radix Sort**: Sorts digit by digit (LSD/MSD).  
+### **Q48. File Permissions**
+```bash
+chmod 755 script.sh  # Sets rwxr-xr-x
+chown user:group file  # Changes ownership
+```
 
----
+### **Q49. Cron Job**
+```bash
+0 17 * * * /path/to/script.sh  # Runs daily at 5 PM
+```
 
-## **19. Job Scheduling Problem**  
-- **Goal**: Maximize jobs completed before deadlines.  
-- **Algorithm**: Greedy (earliest deadline first).  
-
----
-
-### **Final Notes**  
-- **For ETE Students**: Focus on **practical examples** (e.g., IP addressing for networking, sorting for data analysis).  
-- **Bangla Translations**: Simplified for better understanding. 
+### **Q50. kill vs kill -9**
+**kill:** Graceful termination (allows cleanup).  
+**kill -9:** Forceful termination (SIGKILL).
