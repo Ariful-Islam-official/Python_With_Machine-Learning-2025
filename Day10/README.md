@@ -37,7 +37,7 @@
 ---
 
 ## 🎥 Recorded Session
-> *(Add YouTube or Google Drive link if available)*
+> *([Add YouTube or Google Drive link if available](https://youtu.be/7-IYbj5GrJo))*
 
 ## 📄 Notes
 > *(Attach a PDF or link to detailed notes if available)*
