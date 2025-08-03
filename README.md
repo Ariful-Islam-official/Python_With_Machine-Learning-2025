@@ -78,7 +78,7 @@ Each class includes:
       <td><a href="Day09/" class="btn-notes">📄 Notes</a></td>
     </tr>
     <td><strong>10</strong></td>
-      <td>Object-Oriented Programming (OOP) in Python</td>
+      <td>AI vs ML vs DL, Types of ML, NumPy & Pandas Introduction</td>
       <td><a href="https://youtu.be/7-IYbj5GrJo" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day10/" class="btn-notes">📄 Notes</a></td>
     </tr>
