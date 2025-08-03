@@ -77,14 +77,19 @@ Each class includes:
       <td><a href="https://youtu.be/tMhpau4LrO0" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day09/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <td><strong>10</strong></td>
+      <td>Object-Oriented Programming (OOP) in Python</td>
+      <td><a href="https://youtu.be/7-IYbj5GrJo" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day10/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>09</strong></td> 
+      <td><strong>11</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>10</strong></td>
+      <td><strong>12</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
