@@ -1,4 +1,4 @@
-# 🧠 Class 10: AI, ML, DL + NumPy & Pandas
+# 🧠 Class 10: AI vs ML vs DL, Types of ML, NumPy & Pandas Introduction
 
 ## 📚 Topics Covered
 - 🌐 AI vs ML vs DL – Key differences & use-cases
