@@ -77,19 +77,26 @@ Each class includes:
       <td><a href="https://youtu.be/tMhpau4LrO0" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day09/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
     <td><strong>10</strong></td>
       <td>AI vs ML vs DL, Types of ML, NumPy & Pandas Introduction</td>
       <td><a href="https://youtu.be/7-IYbj5GrJo" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day10/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>11</strong></td>
+      <td>Data Visualization & Dataset Collection</td>
+      <td><a href="https://youtu.be/ZT40dHl95MA" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day11/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>11</strong></td> 
+      <td><strong>12</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>12</strong></td>
+      <td><strong>13</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
