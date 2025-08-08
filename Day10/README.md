@@ -37,10 +37,10 @@
 ---
 
 ## 🎥 Recorded Session
-> *([YouTube link](https://youtu.be/7-IYbj5GrJo))*
+> *([Watch the Class 11 Video on YouTube](https://youtu.be/7-IYbj5GrJo))*
 
 ## 📄 Notes
-> *([PDF](Day10.pdf/))*
+> *([View or Download Class Notes (PDF)](Day10.pdf/))*
 
 ---
 
