@@ -40,10 +40,7 @@
 ---
 
 ## 🎥 Recorded Session
-> *(Add YouTube or Google Drive link if available)*
-
-## 📄 Notes
-> *(Attach a PDF or link to detailed notes if available)*
+> 📺 [Watch the Class 11 Video on YouTube](https://youtu.be/ZT40dHl95MA)
 
 ---
 
