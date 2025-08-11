@@ -9,6 +9,10 @@ The datasets in this folder are utilized for:
 - Preprocessing (handling missing values, train-test split, standardization)
 - Machine Learning model training and evaluation
 
+## 🔗 Alternative Download
+If you are unable to access the datasets from this repository, you can also download them from the following Google Drive link:  
+**[📥 Google Drive Dataset Folder](https://drive.google.com/drive/folders/1BjWLPg4W30jF-B1mVRa_dd_jYnxDcwzR?usp=drive_link)**
+
 ## 📜 Contents
 | File Name | Description | Format |
 |-----------|-------------|--------|
