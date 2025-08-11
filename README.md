@@ -89,14 +89,20 @@ Each class includes:
       <td><a href="https://youtu.be/ZT40dHl95MA" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day11/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>12</strong></td>
+      <td>Data Preprocessing in Machine Learning</td>
+      <td><a href="https://youtu.be/lV4xwL_69xo" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day12/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>12</strong></td> 
+      <td><strong>13</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>13</strong></td>
+      <td><strong>14</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
