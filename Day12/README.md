@@ -42,5 +42,5 @@
 ---
 
 ## 🎥 Recorded Session
-> 📺 [Watch the Class 12 Video on YouTube]()
+> 📺 [Watch the Class 12 Video on YouTube](https://youtu.be/lV4xwL_69xo)
 
