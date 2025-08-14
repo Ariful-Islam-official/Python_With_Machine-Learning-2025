@@ -35,7 +35,7 @@
 
 🔗 [Open TFIDF_Vectorizer.ipynb](./TFIDF_Vectorizer.ipynb)
 
-📁 **Datasets Used**: Available in the [`dataset`](../dataset) folder and Google Drive link provided.
+📁 **Datasets Used**: Available in the [`dataset`](../Dataset) folder and Google Drive link provided.
 
 ---
 
