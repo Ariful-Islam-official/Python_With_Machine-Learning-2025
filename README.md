@@ -95,14 +95,20 @@ Each class includes:
       <td><a href="https://youtu.be/lV4xwL_69xo" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day12/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>13</strong></td>
+      <td>Label Encoding, Handling Imbalanced Datasets, and TF-IDF Vectorizer</td>
+      <td><a href="https://youtu.be/Jrf25SnEwtA" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day13/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>13</strong></td> 
+      <td><strong>14</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>14</strong></td>
+      <td><strong>15</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
