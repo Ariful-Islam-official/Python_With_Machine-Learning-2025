@@ -101,14 +101,20 @@ Each class includes:
       <td><a href="https://youtu.be/Jrf25SnEwtA" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day13/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>14</strong></td>
+      <td>Machine Learning Projects</td>
+      <td><a href="https://youtu.be/AMQtwH-cQ6Y" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day14/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>14</strong></td> 
+      <td><strong>15</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>15</strong></td>
+      <td><strong>16</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
