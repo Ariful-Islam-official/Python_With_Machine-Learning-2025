@@ -9,7 +9,7 @@ In **Class 14**, we implemented **two hands-on projects** to apply the machine l
 
 ---
 
-## 🔹 Project 1: [Diabetes Prediction](../main/Project_1_Diabetes_Prediction.ipynb)
+## 🔹 Project 1: [Diabetes Prediction](../Day14/Project_1_Diabetes_Prediction.ipynb)
 
 * **Objective**: Build a machine learning model to predict whether a patient is diabetic based on health-related features.
 * **Techniques Used**:
@@ -20,12 +20,12 @@ In **Class 14**, we implemented **two hands-on projects** to apply the machine l
   * Logistic Regression Classification
 * **Files**:
 
-  * 📄 [Project\_1\_Diabetes\_Prediction.ipynb](../main/Project_1_Diabetes_Prediction.ipynb) → Jupyter Notebook with complete code & explanation
-  * 📊 [diabetes.csv](../main/dataset/diabetes.csv) / [diabetes.xlsx](../main/dataset/diabetes.xlsx) → Dataset used for model training
+  * 📄 [Project\_1\_Diabetes\_Prediction.ipynb](../Day14/Project_1_Diabetes_Prediction.ipynb) → Jupyter Notebook with complete code & explanation
+  * 📊 [diabetes.csv](../Dataset/diabetes.csv) / [diabetes.xlsx](../Dataset/diabetes.xlsx) → Dataset used for model training
 
 ---
 
-## 🔹 Project 2: [Fake News Prediction](../main/Project_2_Fake_News_Prediction.ipynb)
+## 🔹 Project 2: [Fake News Prediction](../Day14/Project_2_Fake_News_Prediction.ipynb)
 
 * **Objective**: Create a machine learning model to detect whether a given news article is **real or fake**.
 * **Techniques Used**:
@@ -36,8 +36,8 @@ In **Class 14**, we implemented **two hands-on projects** to apply the machine l
   * Logistic Regression Classifier
 * **Files**:
 
-  * 📄 [Project\_2\_Fake\_News\_Prediction.ipynb](../main/Project_2_Fake_News_Prediction.ipynb) → Jupyter Notebook with full pipeline
-  * 📊 [fake\_news.csv](../main/dataset/fake_news.csv) → Dataset used for training & testing
+  * 📄 [Project\_2\_Fake\_News\_Prediction.ipynb](../Day14/Project_2_Fake_News_Prediction.ipynb) → Jupyter Notebook with full pipeline
+  * 📊 [fake\_news.csv](../Dataset/fake_news.csv) → Dataset used for training & testing
 
 ---
 
@@ -45,7 +45,7 @@ In **Class 14**, we implemented **two hands-on projects** to apply the machine l
 
 All datasets required for these projects are:
 
-* Included in the [`dataset/`](../main/dataset/) folder of this repository
+* Included in the [`dataset/`](../Dataset/) folder of this repository
 * Also available in the **Google Drive shared folder link** (for backup access)
 
 ---
