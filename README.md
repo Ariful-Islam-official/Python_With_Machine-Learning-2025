@@ -113,6 +113,12 @@ Each class includes:
       <td><a href="https://youtu.be/8nedxllnGH8" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day15/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>16</strong></td>
+      <td>Linear Regression</td>
+      <td><a href="https://youtu.be/RATZUfzHt5c" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day16/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
       <td><strong>16</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
