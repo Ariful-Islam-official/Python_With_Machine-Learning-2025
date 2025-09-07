@@ -120,13 +120,13 @@ Each class includes:
       <td><a href="Day16/" class="btn-notes">📄 Notes</a></td>
     </tr>
      <tr>
-      <td><strong>16</strong></td> 
+      <td><strong>17</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>17</strong></td>
+      <td><strong>18</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
