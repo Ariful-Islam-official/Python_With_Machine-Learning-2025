@@ -1,4 +1,4 @@
-# 📘 Class 17 – Linear & Logistic Regression  
+# 📘 Class 17 – Logistic Regression  
 
 In **Class 17**, we extended our study of regression by exploring **Logistic Regression**, one of the most important algorithms for **classification problems**.  
 
