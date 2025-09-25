@@ -119,14 +119,20 @@ Each class includes:
       <td><a href="https://youtu.be/RATZUfzHt5c" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day16/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>17</strong></td>
+      <td>Logistic Regression </td>
+      <td><a href="https://youtu.be/2P-5_pBk-aI" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day17/" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>17</strong></td> 
+      <td><strong>18</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>18</strong></td>
+      <td><strong>19</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
