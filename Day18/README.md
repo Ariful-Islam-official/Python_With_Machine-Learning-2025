@@ -154,7 +154,3 @@ To assess model performance, we use:
 📄 Dataset used: *Iris Dataset (Scikit-learn built-in)*
 📚 Library used: `scikit-learn`, `numpy`, `pandas`, `matplotlib`
 
----
-
-Would you like me to also make the **.ipynb (Colab notebook)** version of this same content for your Google Drive upload (like previous project notebooks)?
-
