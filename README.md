@@ -125,14 +125,38 @@ Each class includes:
       <td><a href="https://youtu.be/2P-5_pBk-aI" class="btn-watch">🎥 Watch</a></td>
       <td><a href="Day17/" class="btn-notes">📄 Notes</a></td>
     </tr>
+    <tr>
+    <td><strong>18</strong></td>
+      <td>Support Vector Machine (SVM) & K-Nearest Neighbors (KNN)</td>
+      <td><a href="https://youtu.be/Acw-T3JWVc4" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="Day18/" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>19</strong></td>
+      <td>Bonus Class 1</td>
+      <td><a href="https://youtu.be/5wukYdESSGQ" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>20</strong></td>
+      <td>Bonus Class 2</td>
+      <td><a href="https://youtu.be/6QleMfQA0RU" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>21</strong></td>
+      <td>Bonus Class 3</td>
+      <td><a href="https://youtu.be/GBWXM4EAPHY" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
      <tr>
-      <td><strong>18</strong></td> 
+      <td><strong>22</strong></td> 
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
     <tr>
-      <td><strong>19</strong></td>
+      <td><strong>23</strong></td>
       <td class="coming-soon">Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
