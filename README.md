@@ -149,23 +149,41 @@ Each class includes:
       <td><a href="https://youtu.be/GBWXM4EAPHY" class="btn-watch">🎥 Watch</a></td>
       <td><a href="" class="btn-notes">📄 Notes</a></td>
     </tr>
-     <tr>
-      <td><strong>22</strong></td> 
-      <td class="coming-soon">Content Coming Soon...</td>
-      <td class="coming-soon">🔜 Upcoming</td>
-      <td class="coming-soon">🔜 Upcoming</td>
+    <tr>
+    <td><strong>22</strong></td>
+      <td>Bonus Class 4</td>
+      <td><a href="https://youtu.be/2eFFenDyzi4" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
     </tr>
     <tr>
-      <td><strong>23</strong></td>
-      <td class="coming-soon">Content Coming Soon...</td>
-      <td class="coming-soon">🔜 Upcoming</td>
-      <td class="coming-soon">🔜 Upcoming</td>
+    <td><strong>23</strong></td>
+      <td>Bonus Class 5</td>
+      <td><a href="https://youtu.be/TTSdQ2LVIqk" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
     </tr>
     <tr>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+    <td><strong>24</strong></td>
+      <td>Bonus Class 6</td>
+      <td><a href="https://youtu.be/wT7hlq0T2NE" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>25</strong></td>
+      <td>Bonus Class 7</td>
+      <td><a href="https://youtu.be/QdU-HKkHKfw" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>26</strong></td>
+      <td>Bonus Class 8</td>
+      <td><a href="https://youtu.be/zeRt2ISppOs" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+    <td><strong>27</strong></td>
+      <td>Bonus Class 9</td>
+      <td><a href="https://youtu.be/iKdoy_OYSIs" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="" class="btn-notes">📄 Notes</a></td>
     </tr>
   </tbody>
 </table>
